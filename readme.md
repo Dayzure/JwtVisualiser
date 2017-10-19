@@ -14,3 +14,10 @@ For more information check [the Visual Studio documentation](https://docs.micros
  When you install the extension, simply hover any string variable or property and click on the magnifier glass (or the little arrow to make sure the *Jwt Token Visualiser* is selected)
 
  ![Jwt Token Visualiser](https://i.imgur.com/dVAoExv.png)
+
+### Token Inspection
+![Inspect content of your Token](https://i.imgur.com/uTPxQEG.png)
+
+### API Helper
+Try the token aginst your API and see the result immediately while debugging
+![API Test](https://i.imgur.com/iMHlMzW.png)
