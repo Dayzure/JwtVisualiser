@@ -13,4 +13,4 @@ For more information check [the Visual Studio documentation](https://docs.micros
  ## Use
  When you install the extension, simply hover any string variable or property and click on the magnifier glass (or the little arrow to make sure the *Jwt Token Visualiser* is selected)
 
- [Jwt Token Visualiser](https://i.imgur.com/dVAoExv.png)
+ ![Jwt Token Visualiser](https://i.imgur.com/dVAoExv.png)
